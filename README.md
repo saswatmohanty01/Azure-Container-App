@@ -1,2 +1,2 @@
 # Azure-Container-App
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Azure Container App](http://https://github.com/khanasif1/Azure-Container-App/images/ContainerApp.png)](https://www.youtube.com/watch?v=bh5FV6MRryo "Azure Container App - Reviews")
